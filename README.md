@@ -427,6 +427,7 @@ E.G.
 $\LaTeX$ 是最好用的论文排版语言! 不信你看!
 
 $a^n+b^n=c^n$
+
 $$
 %\usepackage{unicode-math}
 \displaystyle \ointctrclockwise\mathcal{D}[x(t)]
